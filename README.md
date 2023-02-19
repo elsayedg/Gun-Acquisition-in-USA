@@ -3,8 +3,8 @@
 
 in this project 
 we see Gun Acquisiton in USA 
-<br>
-through answering three questions \n
+
+through answering three questions 
     1. What is the overall trend of gun purchases?
     2. Which states have had the highest growth in gun registrations? 
     3. What census data is most associated with high gun per capita? 
